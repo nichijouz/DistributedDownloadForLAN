@@ -1,0 +1,559 @@
+## 2009-10-4 1:33:40 System information on 192.168.85.9.
+
+General information:
+--------------------
+
+Computer name    : VM3
+Current user     : Administrator
+OS               : Windows XP Professional (5.1.2600 Service Pack 2)
+Product name     : Microsoft Windows XP
+Current version  : 5.1
+Build number     : 2600
+CSD version      : Service Pack 2
+Current type     : Multiprocessor Free
+Install date     : 2007-7-9 1:13:54
+Product id       : 76487-640-0636015-23420
+Computer owner   : User
+Company          : Microsoft
+Software type    : SYSTEM
+Source path      : D:\I386
+Windows folder   : C:\WINDOWS\
+System folder    : C:\WINDOWS\system32
+Temporary folder : C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp
+CPU              : x86 Family 15 Model 107 Stepping 1 AuthenticAMD AMD Athlon(tm) 64 X2 Dual Core Processor 3600+
+CPU              : x86 Family 15 Model 107 Stepping 1 AuthenticAMD AMD Athlon(tm) 64 X2 Dual Core Processor 3600+
+BIOS             : INTEL  - 6040000
+OS language      : English (United States), ENU
+Region           : United States
+Code page        : 0
+TimeZone         : Pacific Standard Time
+IE version       : 6.0.2900.2180 (;SP2;)
+DirectX version  : 9.0 (4.09.00.0904)
+Screen resolution: 1024 x 768 @16 bit
+Network adapter  : VMware Accelerated AMD PCNet Adapter - Packet Scheduler Miniport
+MAC address      : 00-0C-29-07-40-54
+IP address       : 192.168.85.9
+Subnet Mask      : 255.255.255.0
+Gateway          : 192.168.85.1
+DNS              : 192.168.10.50,10.0.0.40
+DHCP enabled     : No
+
+Total physical memory : 523,756 KB
+Available physical memory: 390,248 KB
+Total page file       : 883,320 KB
+Available page file   : 787,036 KB
+Disk size on C:(NTFS) : 4,285 MB
+Disk free space on C: : 445 MB
+Disk size on D:(CDFS) : 114 MB
+Disk free space on D: : 0 MB
+
+
+
+Installed programs:
+-------------------
+
+J2SE Runtime Environment 5.0 Update 6  {1.5.0.60}
+LanHelper v1.89
+Macromedia Flash Player 8.5  {8}
+Security Update for Windows XP (KB890046)  {1}
+Security Update for Windows XP (KB893756)  {1}
+Security Update for Windows XP (KB896358)  {1}
+Security Update for Windows XP (KB896422)  {1}
+Security Update for Windows XP (KB896423)  {1}
+Security Update for Windows XP (KB896424)  {1}
+Security Update for Windows XP (KB896428)  {1}
+Security Update for Windows XP (KB899587)  {1}
+Security Update for Windows XP (KB899589)  {1}
+Security Update for Windows XP (KB899591)  {1}
+Security Update for Windows XP (KB900725)  {1}
+Security Update for Windows XP (KB901017)  {1}
+Security Update for Windows XP (KB901190)  {1}
+Security Update for Windows XP (KB901214)  {1}
+Security Update for Windows XP (KB902400)  {1}
+Security Update for Windows XP (KB904706)  {2}
+Security Update for Windows XP (KB905414)  {1}
+Security Update for Windows XP (KB905749)  {1}
+Security Update for Windows XP (KB908519)  {1}
+Security Update for Windows XP (KB908531)  {1}
+Security Update for Windows XP (KB911562)  {1}
+Security Update for Windows XP (KB911567)  {1}
+Security Update for Windows XP (KB911927)  {1}
+Security Update for Windows XP (KB912812)  {1}
+Security Update for Windows XP (KB912919)  {1}
+Security Update for Windows XP (KB913446)  {1}
+Update for Windows XP (KB894391)  {1}
+Update for Windows XP (KB910437)  {1}
+VMware Tools  {7.8.6.8888}
+WebFldrs XP  {9.50.7523}
+Windows Installer 3.1 (KB893803)  {3.1}
+Windows Media Format Runtime
+Windows Media Player 10
+Windows XP Hotfix - KB873339  {20041117.092459}
+Windows XP Hotfix - KB885250  {20050118.202711}
+Windows XP Hotfix - KB885835  {20041027.181713}
+Windows XP Hotfix - KB885836  {20041028.173203}
+Windows XP Hotfix - KB886185  {20041021.090540}
+Windows XP Hotfix - KB886677  {20041015.135028}
+Windows XP Hotfix - KB887742  {20041103.095002}
+Windows XP Hotfix - KB888113  {20041116.131036}
+Windows XP Hotfix - KB888302  {20041207.111426}
+Windows XP Hotfix - KB890859  {1}
+Windows XP Hotfix - KB891781  {20050110.165439}
+
+
+
+Installed computer devices:
+---------------------------
+
+Batteries -- Microsoft AC Adapter
+Computer -- ACPI Multiprocessor PC
+Disk drives -- VMware Virtual IDE Hard Drive
+Display adapters -- VMware SVGA II
+DVD/CD-ROM drives -- NECVMWar VMware IDE CDR10
+Floppy disk controllers -- Standard floppy disk controller
+Floppy disk drives -- Floppy disk drive
+Human Interface Devices -- USB Human Interface Device
+Human Interface Devices -- USB Human Interface Device
+IDE ATA/ATAPI controllers -- Intel(R) 82371AB/EB PCI Bus Master IDE Controller
+IDE ATA/ATAPI controllers -- Primary IDE Channel
+IDE ATA/ATAPI controllers -- Secondary IDE Channel
+Keyboards -- Standard 101/102-Key or Microsoft Natural PS/2 Keyboard
+Mice and other pointing devices -- HID-compliant mouse
+Mice and other pointing devices -- HID-compliant mouse
+Mice and other pointing devices -- VMware Pointing Device
+Modems -- Standard 56000 bps Modem
+Network adapters -- VMware Accelerated AMD PCNet Adapter
+Ports (COM & LPT) -- Communications Port (COM1)
+Ports (COM & LPT) -- Communications Port (COM2)
+Ports (COM & LPT) -- Printer Port (LPT1)
+Processors -- AMD Athlon(tm) 64 X2 Dual Core Processor 3600+
+Processors -- AMD Athlon(tm) 64 X2 Dual Core Processor 3600+
+SCSI and RAID controllers -- VMware SCSI Controller
+Sound, video and game controllers -- Audio Codecs
+Sound, video and game controllers -- Creative AudioPCI (ES1371,ES1373) (WDM)
+Sound, video and game controllers -- Game Port for Creative
+Sound, video and game controllers -- Legacy Audio Drivers
+Sound, video and game controllers -- Legacy Video Capture Devices
+Sound, video and game controllers -- Media Control Devices
+Sound, video and game controllers -- Video Codecs
+System devices -- ACPI Fixed Feature Button
+System devices -- Direct memory access controller
+System devices -- EISA programmable interrupt controller
+System devices -- Full screen video driver for console
+System devices -- Generic Bus
+System devices -- Intel 82371AB/EB PCI to ISA bridge (ISA mode)
+System devices -- Intel 82443BX Pentium(R) II Processor to AGP Controller
+System devices -- Intel 82443BX Pentium(R) II Processor to PCI Bridge
+System devices -- ISAPNP Read Data Port
+System devices -- Microcode Update Device
+System devices -- Microsoft ACPI-Compliant System
+System devices -- Microsoft Composite Battery
+System devices -- Microsoft System Management BIOS Driver
+System devices -- Motherboard resources
+System devices -- PCI bus
+System devices -- PCI standard PCI-to-PCI bridge
+System devices -- Plug and Play Software Device Enumerator
+System devices -- System CMOS/real time clock
+System devices -- System speaker
+System devices -- System timer
+System devices -- Terminal Server Device Redirector
+Universal Serial Bus controllers -- Generic USB Hub
+Universal Serial Bus controllers -- Intel(R) 82371AB/EB PCI to USB Universal Host Controller
+Universal Serial Bus controllers -- Standard Enhanced PCI to USB Host Controller
+Universal Serial Bus controllers -- USB Composite Device
+Universal Serial Bus controllers -- USB Root Hub
+Universal Serial Bus controllers -- USB Root Hub
+
+
+
+The programs start up with Windows:
+-----------------------------------
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run\
+"VMware Tools" = ""C:\Program Files\VMware\VMware Tools\VMwareTray.exe""
+"VMware User Process" = ""C:\Program Files\VMware\VMware Tools\VMwareUser.exe""
+
+HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run\
+"CTFMON.EXE" = "C:\WINDOWS\system32\ctfmon.exe"
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\
+Shell = "Explorer.exe"
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\
+Userinit = "C:\WINDOWS\system32\userinit.exe,"
+
+HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Session Manager\
+BootExecute = "autocheck autochk *"
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon\Notify\
+"crypt32chain" = "crypt32.dll"
+"cryptnet" = "cryptnet.dll"
+"cscdll" = "cscdll.dll"
+"ScCertProp" = "wlnotify.dll"
+"Schedule" = "wlnotify.dll"
+"sclgntfy" = "sclgntfy.dll"
+"SensLogn" = "WlNotify.dll"
+"termsrv" = "wlnotify.dll"
+"TPSvc" = "TPSvc.dll"
+"wlballoon" = "wlnotify.dll"
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Active Setup\Installed Components\
+"internet explorer" = "C:\WINDOWS\system32\shmgrate.exe ocinstalluserconfigie"
+"outlook express" = "C:\WINDOWS\system32\shmgrate.exe ocinstalluserconfigoe"
+"themes setup" = "C:\WINDOWS\system32\regsvr32.exe /s /n /i:/userinstall C:\WINDOWS\system32\themeui.dll"
+"microsoft outlook express 6" = ""C:\Program Files\outlook express\setup50.exe" /app:oe /caller:winnt /user /install"
+"NetMeeting 3.01" = "rundll32.exe advpack.dll,LaunchINFSection C:\WINDOWS\INF\msnetmtg.inf,NetMtg.Install.PerUser.NT"
+"internet explorer" = "C:\WINDOWS\system32\rundll32.exe setupapi,installhinfsection marketplacelinkinstall 896 C:\WINDOWS\inf\ie.inf"
+"Windows Messenger 4.7" = "rundll32.exe advpack.dll,LaunchINFSection C:\WINDOWS\INF\msmsgs.inf,BLC.QuietInstall.PerUser"
+"Microsoft Windows Media Player" = "rundll32.exe advpack.dll,LaunchINFSection C:\WINDOWS\INF\wmp10.inf,PerUserStub"
+"address book 6" = ""C:\Program Files\outlook express\setup50.exe" /app:wab /caller:winnt /user /install"
+"Windows Desktop Update" = "regsvr32.exe /s /n /i:U shell32.dll"
+"internet explorer 6" = "C:\WINDOWS\system32\ie4uinit.exe"
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\SharedTaskScheduler\
+"browseui preloader" = "C:\WINDOWS\system32\browseui.dll"
+"component categories cache daemon" = "C:\WINDOWS\system32\browseui.dll"
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\ShellServiceObjectDelayLoad\
+"postbootreminder" = "C:\WINDOWS\system32\shell32.dll"
+"cdburn" = "C:\WINDOWS\system32\shell32.dll"
+"webcheck" = "C:\WINDOWS\system32\webcheck.dll"
+"SysTray" = "C:\WINDOWS\system32\stobject.dll"
+
+Scheduled tasks
+
+"Calculator" -> "C:\WINDOWS\system32\calc.exe"
+
+
+
+All services on this machine:
+--------------------------------
+
+Service: Alerter -- Alerter
+Path   : C:\WINDOWS\system32\svchost.exe -k LocalService (%SystemRoot%\system32\alrsvc.dll)
+Disabled, Stopped
+
+Service: ALG -- Application Layer Gateway Service
+Path   : C:\WINDOWS\System32\alg.exe
+Manual, Running
+
+Service: AppMgmt -- Application Management
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\appmgmts.dll)
+Manual, Stopped
+
+Service: AudioSrv -- Windows Audio
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\audiosrv.dll)
+Disabled, Stopped
+
+Service: BITS -- Background Intelligent Transfer Service
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (C:\WINDOWS\system32\qmgr.dll)
+Disabled, Stopped
+
+Service: Browser -- Computer Browser
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\browser.dll)
+Automatic, Running
+
+Service: CiSvc -- Indexing Service
+Path   : C:\WINDOWS\system32\cisvc.exe
+Disabled, Stopped
+
+Service: ClipSrv -- ClipBook
+Path   : C:\WINDOWS\system32\clipsrv.exe
+Disabled, Stopped
+
+Service: COMSysApp -- COM+ System Application
+Path   : C:\WINDOWS\system32\dllhost.exe /Processid:{02D4B3F1-FD88-11D1-960D-00805FC79235}
+Manual, Stopped
+
+Service: CryptSvc -- Cryptographic Services
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\cryptsvc.dll)
+Automatic, Running
+
+Service: DcomLaunch -- DCOM Server Process Launcher
+Path   : C:\WINDOWS\system32\svchost -k DcomLaunch (%SystemRoot%\system32\rpcss.dll)
+Automatic, Running
+
+Service: Dhcp -- DHCP Client
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\dhcpcsvc.dll)
+Automatic, Running
+
+Service: dmadmin -- Logical Disk Manager Administrative Service
+Path   : C:\WINDOWS\System32\dmadmin.exe /com
+Manual, Stopped
+
+Service: dmserver -- Logical Disk Manager
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\dmserver.dll)
+Automatic, Running
+
+Service: Dnscache -- DNS Client
+Path   : C:\WINDOWS\system32\svchost.exe -k NetworkService (%SystemRoot%\System32\dnsrslvr.dll)
+Automatic, Running
+
+Service: ERSvc -- Error Reporting Service
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\ersvc.dll)
+Disabled, Stopped
+
+Service: Eventlog -- Event Log
+Path   : C:\WINDOWS\system32\services.exe
+Automatic, Running
+
+Service: EventSystem -- COM+ Event System
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (C:\WINDOWS\system32\es.dll)
+Manual, Running
+
+Service: FastUserSwitchingCompatibility -- Fast User Switching Compatibility
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\shsvcs.dll)
+Manual, Stopped
+
+Service: helpsvc -- Help and Support
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%WINDIR%\PCHealth\HelpCtr\Binaries\pchsvc.dll)
+Disabled, Stopped
+
+Service: HidServ -- Human Interface Device Access
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\hidserv.dll)
+Disabled, Stopped
+
+Service: HTTPFilter -- HTTP SSL
+Path   : C:\WINDOWS\System32\svchost.exe -k HTTPFilter (%SystemRoot%\System32\w3ssl.dll)
+Manual, Stopped
+
+Service: lanmanserver -- Server
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\srvsvc.dll)
+Automatic, Running
+
+Service: lanmanworkstation -- Workstation
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\wkssvc.dll)
+Automatic, Running
+
+Service: LmHosts -- TCP/IP NetBIOS Helper
+Path   : C:\WINDOWS\system32\svchost.exe -k LocalService (%SystemRoot%\System32\lmhsvc.dll)
+Automatic, Running
+
+Service: Messenger -- Messenger
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\msgsvc.dll)
+Manual, Stopped
+
+Service: mnmsrvc -- NetMeeting Remote Desktop Sharing
+Path   : C:\WINDOWS\system32\mnmsrvc.exe
+Disabled, Stopped
+
+Service: MSDTC -- Distributed Transaction Coordinator
+Path   : C:\WINDOWS\system32\msdtc.exe
+Manual, Stopped
+
+Service: MSIServer -- Windows Installer
+Path   : C:\WINDOWS\system32\msiexec.exe /V
+Manual, Stopped
+
+Service: NetDDE -- Network DDE
+Path   : C:\WINDOWS\system32\netdde.exe
+Manual, Stopped
+
+Service: NetDDEdsdm -- Network DDE DSDM
+Path   : C:\WINDOWS\system32\netdde.exe
+Manual, Stopped
+
+Service: Netlogon -- Net Logon
+Path   : C:\WINDOWS\system32\lsass.exe
+Automatic, Running
+
+Service: Netman -- Network Connections
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\netman.dll)
+Manual, Running
+
+Service: Nla -- Network Location Awareness (NLA)
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\mswsock.dll)
+Manual, Running
+
+Service: NtLmSsp -- NT LM Security Support Provider
+Path   : C:\WINDOWS\system32\lsass.exe
+Manual, Stopped
+
+Service: NtmsSvc -- Removable Storage
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\system32\ntmssvc.dll)
+Manual, Stopped
+
+Service: ntrtscan -- OfficeScanNT 实时扫描
+Path   : C:\Program Files\Trend Micro\OfficeScan Client\ntrtscan.exe
+Disabled, Stopped
+
+Service: OfcPfwSvc -- OfficeScanNT 个人防火墙
+Path   : C:\Program Files\Trend Micro\OfficeScan Client\OfcPfwSvc.exe
+Disabled, Stopped
+
+Service: PlugPlay -- Plug and Play
+Path   : C:\WINDOWS\system32\services.exe
+Automatic, Running
+
+Service: PolicyAgent -- IPSEC Services
+Path   : C:\WINDOWS\system32\lsass.exe
+Automatic, Running
+
+Service: ProtectedStorage -- Protected Storage
+Path   : C:\WINDOWS\system32\lsass.exe
+Automatic, Running
+
+Service: RasAuto -- Remote Access Auto Connection Manager
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\rasauto.dll)
+Manual, Stopped
+
+Service: RasMan -- Remote Access Connection Manager
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\rasmans.dll)
+Manual, Running
+
+Service: RDSessMgr -- Remote Desktop Help Session Manager
+Path   : C:\WINDOWS\system32\sessmgr.exe
+Manual, Stopped
+
+Service: RemoteAccess -- Routing and Remote Access
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\mprdim.dll)
+Disabled, Stopped
+
+Service: RemoteRegistry -- Remote Registry
+Path   : C:\WINDOWS\system32\svchost.exe -k LocalService (%SystemRoot%\system32\regsvc.dll)
+Automatic, Running
+
+Service: RpcLocator -- Remote Procedure Call (RPC) Locator
+Path   : C:\WINDOWS\system32\locator.exe
+Manual, Stopped
+
+Service: RpcSs -- Remote Procedure Call (RPC)
+Path   : C:\WINDOWS\system32\svchost -k rpcss (%SystemRoot%\system32\rpcss.dll)
+Automatic, Running
+
+Service: RSVP -- QoS RSVP
+Path   : C:\WINDOWS\system32\rsvp.exe
+Manual, Stopped
+
+Service: SamSs -- Security Accounts Manager
+Path   : C:\WINDOWS\system32\lsass.exe
+Automatic, Running
+
+Service: SCardSvr -- Smart Card
+Path   : C:\WINDOWS\System32\SCardSvr.exe
+Manual, Stopped
+
+Service: Schedule -- Task Scheduler
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\system32\schedsvc.dll)
+Automatic, Running
+
+Service: seclogon -- Secondary Logon
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\seclogon.dll)
+Automatic, Running
+
+Service: SENS -- System Event Notification
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\system32\sens.dll)
+Automatic, Running
+
+Service: SharedAccess -- Windows Firewall/Internet Connection Sharing (ICS)
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\System32\ipnathlp.dll)
+Automatic, Running
+
+Service: ShellHWDetection -- Shell Hardware Detection
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\shsvcs.dll)
+Disabled, Stopped
+
+Service: Spooler -- Print Spooler
+Path   : C:\WINDOWS\system32\spoolsv.exe
+Manual, Stopped
+
+Service: srservice -- System Restore Service
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (C:\WINDOWS\system32\srsvc.dll)
+Disabled, Stopped
+
+Service: SSDPSRV -- SSDP Discovery Service
+Path   : C:\WINDOWS\system32\svchost.exe -k LocalService (%SystemRoot%\System32\ssdpsrv.dll)
+Disabled, Stopped
+
+Service: stisvc -- Windows Image Acquisition (WIA)
+Path   : C:\WINDOWS\system32\svchost.exe -k imgsvc (%SystemRoot%\system32\wiaservc.dll)
+Disabled, Stopped
+
+Service: SwPrv -- MS Software Shadow Copy Provider
+Path   : C:\WINDOWS\system32\dllhost.exe /Processid:{0EEAE51E-64C9-4AE5-A816-AE20042B0B4F}
+Disabled, Stopped
+
+Service: SysmonLog -- Performance Logs and Alerts
+Path   : C:\WINDOWS\system32\smlogsvc.exe
+Manual, Stopped
+
+Service: TapiSrv -- Telephony
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\tapisrv.dll)
+Manual, Running
+
+Service: TermService -- Terminal Services
+Path   : C:\WINDOWS\System32\svchost -k DComLaunch (%SystemRoot%\System32\termsrv.dll)
+Disabled, Stopped
+
+Service: Themes -- Themes
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\shsvcs.dll)
+Automatic, Running
+
+Service: TlntSvr -- Telnet
+Path   : C:\WINDOWS\system32\tlntsvr.exe
+Disabled, Stopped
+
+Service: TPAutoConnSvc -- TP AutoConnect Service
+Path   : "C:\Program Files\VMware\VMware Tools\TPAutoConnSvc.exe"
+Manual, Stopped
+
+Service: TrkWks -- Distributed Link Tracking Client
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\system32\trkwks.dll)
+Disabled, Stopped
+
+Service: UMWdf -- Windows User Mode Driver Framework
+Path   : C:\WINDOWS\system32\wdfmgr.exe
+Manual, Stopped
+
+Service: upnphost -- Universal Plug and Play Device Host
+Path   : C:\WINDOWS\system32\svchost.exe -k LocalService (%SystemRoot%\System32\upnphost.dll)
+Manual, Stopped
+
+Service: UPS -- Uninterruptible Power Supply
+Path   : C:\WINDOWS\System32\ups.exe
+Disabled, Stopped
+
+Service: VSS -- Volume Shadow Copy
+Path   : C:\WINDOWS\System32\vssvc.exe
+Disabled, Stopped
+
+Service: W32Time -- Windows Time
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (C:\WINDOWS\system32\w32time.dll)
+Disabled, Stopped
+
+Service: WebClient -- WebClient
+Path   : C:\WINDOWS\system32\svchost.exe -k LocalService (%SystemRoot%\System32\webclnt.dll)
+Disabled, Stopped
+
+Service: winmgmt -- Windows Management Instrumentation
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (%SystemRoot%\system32\wbem\WMIsvc.dll)
+Automatic, Running
+
+Service: WmdmPmSN -- Portable Media Serial Number Service
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (C:\WINDOWS\system32\MsPMSNSv.dll)
+Manual, Stopped
+
+Service: Wmi -- Windows Management Instrumentation Driver Extensions
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\advapi32.dll)
+Manual, Stopped
+
+Service: WmiApSrv -- WMI Performance Adapter
+Path   : C:\WINDOWS\system32\wbem\wmiapsrv.exe
+Manual, Stopped
+
+Service: wscsvc -- Security Center
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SYSTEMROOT%\system32\wscsvc.dll)
+Disabled, Stopped
+
+Service: wuauserv -- Automatic Updates
+Path   : C:\WINDOWS\system32\svchost.exe -k netsvcs (C:\WINDOWS\system32\wuauserv.dll)
+Disabled, Stopped
+
+Service: WZCSVC -- Wireless Zero Configuration
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\wzcsvc.dll)
+Disabled, Stopped
+
+Service: xmlprov -- Network Provisioning Service
+Path   : C:\WINDOWS\System32\svchost.exe -k netsvcs (%SystemRoot%\System32\xmlprov.dll)
+Manual, Stopped
+
